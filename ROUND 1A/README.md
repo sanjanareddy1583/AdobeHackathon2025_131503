@@ -1,4 +1,3 @@
-# AdobeHackathon2025_131503
 # 🔍 Adobe Hackathon 2025 - Round 1A: Understand Your Document
 
 ## 🧠 Challenge Overview
@@ -63,7 +62,7 @@ pip install -r requirements.txt
 ### `requirements.txt`
 
 ```
-PyMuPDF==1.24.9
+PyMuPDF
 ```
 
 ---
