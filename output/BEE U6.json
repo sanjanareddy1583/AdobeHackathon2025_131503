@@ -1,0 +1,155 @@
+{
+    "title": "INSTRUMENTS",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "UNIT - VI",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "INSTRUMENTS",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Definition:",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "CLASSIFICATION OF INSTRUMENTS:",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Absolute instruments:",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Secondary instruments:",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "CLASSIFICATION OF SECONDARY INSTRUMENTS",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "3 types",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Indicating Instruments:",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "Integrating Instruments:",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "Recording Instruments:",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "Basic Principle of Indicating Instruments",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "ESSENTIALS OF INDICATING INSTRUMENTS",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "1. Deflecting or operating torque",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "2. Controlling or restoring torque",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "3. Damping torque",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "Deflecting or operating torque:",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "Spring Control:",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "Gravity control:",
+            "page": 16
+        },
+        {
+            "level": "H3",
+            "text": "DAMPING TORQUE:",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "DAMPING  METHODS:",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "Air Friction Damping:",
+            "page": 21
+        },
+        {
+            "level": "H3",
+            "text": "Fluid Friction Damping:",
+            "page": 23
+        },
+        {
+            "level": "H3",
+            "text": "Eddy Current Damping:",
+            "page": 25
+        },
+        {
+            "level": "H3",
+            "text": "TYPES OF INSTRUMENTS:",
+            "page": 27
+        },
+        {
+            "level": "H3",
+            "text": "PERMANENT MAGNET MOVING COIL(PMMC)",
+            "page": 28
+        },
+        {
+            "level": "H3",
+            "text": "PMMC",
+            "page": 28
+        },
+        {
+            "level": "H3",
+            "text": "MOVING   IRON  INSTRUMENTS",
+            "page": 35
+        },
+        {
+            "level": "H3",
+            "text": "REPULSION TYPE:",
+            "page": 37
+        },
+        {
+            "level": "H3",
+            "text": "Extension Ranges of meters",
+            "page": 40
+        }
+    ]
+}
