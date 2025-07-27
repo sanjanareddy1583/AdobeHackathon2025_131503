@@ -153,19 +153,12 @@ docker run --rm -v "${PWD}/input:/app/input:ro" -v "${PWD}/output:/app/output" -
 docker run --rm -v "%cd%/input:/app/input:ro" -v "%cd%/output:/app/output" --network none persona-doc-processor
 ```
 
-#### **Linux / Mac**
-
-```bash
-docker run --rm -v $(pwd)/input:/app/input:ro -v $(pwd)/output:/app/output --network none persona-doc-processor
-```
-
----
 
 ## 🏃 Execution Flow
 
-1. Place **PDF files** and `challenge1b_input.json` inside the `input/` folder
+1. Place **PDF files** and `input.json` inside the `input/` folder
 2. Run the Docker container using the commands above
-3. Processed output (`challenge1b_output.json`) will be available in the `output/` folder
+3. Processed output (`collection_output.json`) will be available in the `output/` folder
 
 ---
 
