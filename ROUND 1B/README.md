@@ -124,16 +124,10 @@ ROUND 1B/
 ```
 
 ---
-
-````
+```
 Similarly for collection2 and collection3
 
----
-
-
 ```
-
----
 
 ## ⚙️ Installation & Execution
 
