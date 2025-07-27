@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T22:25:06.733846"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Content from Page 12",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Tortillas for serving",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "section_title": "Content from Page 7",
+            "importance_rank": 3,
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Content from Page 3",
+            "importance_rank": 4,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Spaghetti for serving",
+            "importance_rank": 5,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Cooked rice for serving",
+            "importance_rank": 6,
+            "page_number": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Content from Page 11",
+            "importance_rank": 7,
+            "page_number": 11
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Vegetable oil for frying",
+            "importance_rank": 8,
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "Chopped cilantro for garnish",
+            "importance_rank": 9,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "Chopped parsley for garnish",
+            "importance_rank": 10,
+            "page_number": 7
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "In the same skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. Stir in diced tomatoes, red wine, cinnamon, oregano, salt, and pepper. Simmer for 20 minutes. In a baking dish, layer eggplant slices and meat sauce. Pour bchamel sauce over the top and sprinkle with grated Parmesan cheese. Bake for 30-35 minutes until golden and bubbly. Serve warm.",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o Preheat oven to 375F (190C). o Cook bacon until crispy, then crumble. o Saut diced onion in bacon fat until softened. o Place pie crust in a pie dish and sprinkle with bacon, onion, and cheese. o Beat eggs with cream, salt, and pepper, then pour over the filling. o Bake for 30-35 minutes until set and golden. o Serve warm.",
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "Place chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. Bake for 20-25 minutes until cheese is melted and bubbly. Serve warm.",
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "",
+            "page_number": 3
+        }
+    ]
+}

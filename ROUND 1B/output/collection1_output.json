@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-27T22:26:14.495641"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Famous Dishes",
+            "importance_rank": 1,
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Cooking Classes",
+            "importance_rank": 2,
+            "page_number": 5
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Types of Food",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Culinary Experiences",
+            "importance_rank": 4,
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Travel Tips",
+            "importance_rank": 5,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering",
+            "importance_rank": 6,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "Avignon: The City of Popes",
+            "importance_rank": 7,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Budget-Friendly Restaurants",
+            "importance_rank": 8,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Family-Friendly Restaurants",
+            "importance_rank": 9,
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering",
+            "importance_rank": 10,
+            "page_number": 6
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "The South of France is home to many iconic dishes that you must try during your visit: Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with saffron and herbs. Bouillabaisse is typically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean. Ratatouille: A vegetable stew made with eggplant, zu...",
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "Provence: Learn to prepare traditional dishes like ratatouille and bouillabaisse. Prigord: Join a true hunting tour followed by a cooking class. Nice: Take a class to master Nioise cuisine, including dishes like salade nioise and socca. Toulouse: Learn to cook regional specialties such as cassoulet. Marseille: Participate in a seafood cooking class to make dishes like bouillabaisse. Lyon: Discover the secrets of Lyonnaise cuisine with a hands-on cooking class. Sarlat: Join a foie gras worksho...",
+            "page_number": 5
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural influences. Here are some key types of food you can expect to find: Seafood: With its extensive coastline, the South of France offers an abundance of fresh seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea bass, and mussels marinire. The region's proximity to the Mediterra...",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: Cooking Classes: Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte tropzienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. ...",
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Best Time to Visit: The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. Transportation: The region is well-connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns. Language: While French is the ocial language, English is widely spoken in tourist areas. Learning a few basic Fre...",
+            "page_number": 2
+        }
+    ]
+}
